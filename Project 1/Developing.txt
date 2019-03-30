@@ -28,3 +28,18 @@ Mobile Banking
 AI is used by many banks to personalize your experience on their mobile apps (for example, bill pay reminders).
 Maps and Directions
 When apps like Google Maps calculate traffic and construction in order to find the quickest route to your destination, that’s AI at work.
+•	Offline experiences
+Ride-sharing Apps
+Ride-sharing service Uber uses AI to determine how long it will take to get from your location to your destination. This lets you know when to expect a driver or food delivery.
+Commercial Airline Flights
+You might be surprised to discover how little flying your friendly pilot actually does in the cockpit. Pilots report spending only 7 minutes manually flying the plane during a typical flight, with much of the rest being done by AI technology.
+AI in science:
+•	Sophia is a social humanoid robot developed by Hong Kong based company Hanson Robotics. Sophia was activated on February 14, 2016[1] and made its first public appearance at South by Southwest Festival (SXSW) in mid-March 2016 in Austin, Texas, United States.[2] It is able to display more than 50 facial expressions.
+•	The Kodomoroid TV Presenter: This humanoid robot was invented in Japan. Her name is derived from the Japanese word for child- Kodomo- and the word 'Android'. She speaks a number of languages and is capable of reading the news and giving weather forecasts.
+•	Jia Jia: This humanoid robot was worked on for three years by a team at the University of Science and Technology of China before its release. She is capable of making conversations but has limited motion and stilted speech. She does not have a full range of expressions but the team of inventors plans to make further developments and infuse learning abilities in her. Although her speech and vocabulary need further work, she is still fairly realistic.
+Three major “zones of investment” for AI in healthcare:
+•	Digitization: Using AI or other digital tools to make operational processes less expensive
+•	Engagement: Improving how patients and consumers interact with healthcare providers, systems and services
+•	Diagnostics: Developing new products and services that use AI algorithms to provide diagnoses or health advice to patients
+Japan is developing artificial intelligence for motorcycles, in particular, Kawasaki is working on a voice assistant for its motorcycles.
+The new generation of motorcycles from Kawasaki Heavy Industries will adapt to its owner. Motorcycles will use information and communication technologies, including artificial intelligence, writes Motor Sports Newswire.
