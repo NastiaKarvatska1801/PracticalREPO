@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body {
+    background: url("../images/background.jpg");
+}
+
+h1,
+h2 {
+    font-family: "Monotype Corsiva";
+}
+
+h3 {
+    border-bottom: solid 1px rgb(207, 25, 153);
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:link {
+    text-decoration: none;
+    color: blue;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+#bcgrDelight {
+    background: url("../images/body2.jpg")
+}
+
+#page_align {
+    background: white;
+    width: 55%;
+    margin: 35px auto;
+    border-radius: 5px;
+}
+
+#content {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.info {}
+
+#main_photo {
+    width: 230px;
+    border-radius: 6px;
+}
+
+#name {
+    font-family: "Monotype Corsiva";
+    font-size: 24px;
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+    color: black;
+}
+
+#info2 {
+    margin-left: 25px;
+    width: 75%;
+    font-family: "Segoe UI";
+    line-height: 1.5;
+}
+
+#content_block {}
+
+#nav {
+    width: 100%;
+    padding-top: 10px;
+    border-bottom: solid 1px rgb(207, 25, 153);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: stretch;
+    align-items: flex-start;
+}
+
+#mapImg {
+    align-items: center;
+}
+
+table td {
+    width: 50%;
+}
+
+.delightBlock {
+    margin: 5px 0px 5px 0px;
+    border: 2px rgb(207, 25, 153) solid;
+    background-color: #f6f7f9;
+    padding: 5px;
+}
+
+.delightImg {
+    width: 100%;
+}
+
+.delightTextLeft {
+    padding: 0px 10px 0px 10px;
+    text-align: left;
+}
+
+.delightTextCenter {
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+}
+
+.delightTextRight {
+    padding: 0px 10px 0px 10px;
+    text-align: right;
+}
+
+.delightTextJustify {
+    padding: 0px 10px 0px 10px;
+    text-align: justify;
+}
+
+.skillsRow {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: stretch;
+    align-items: flex-start;
+}
+
+.skillsBlock {
+    margin: 5px;
+    border: 2px rgb(207, 25, 153) solid;
+    background-color: #f6f7f9;
+    padding: 5px;
+}
+
+.dreamsText {
+    width: 90%;
+    padding: 10px 0px 0px 50px;
+}
+
+
+/*
+slider
+*/
+
+#slides {
+    position: relative;
+    height: 300px;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+.slide {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    z-index: 1;
+    -webkit-transition: opacity 1s;
+    -moz-transition: opacity 1s;
+    -o-transition: opacity 1s;
+    transition: opacity 1s;
+}
+
+.showing {
+    opacity: 1;
+    z-index: 2;
+}
+
+.slide {
+    font-size: 40px;
+    padding: 40px;
+    box-sizing: border-box;
+    background: #333;
+    color: #fff;
+}
+
+#backButton {
+    height: 30px;
+}
+
+.tagAttr {
+    color: blueviolet;
+}
+
+#attr {
+    padding-left: 20px;
+}
+
+textarea {
+    width: 90%;
+    resize: none;
+}
